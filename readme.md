@@ -9,16 +9,22 @@
 > A)20160923_global_crisis_data:
 This data was collected over many years by Carmen Reinhart (with her coauthors Ken Rogoff, Christoph Trebesch, and Vincent Reinhart). 
 "https://www.hbs.edu/behavioral-finance-and-financial-stability/data/Pages/global.aspx".
+
 >> This data contains the banking crises of 70 countries, from 1800 AD to 2016 AD, with a total of 15,190 records and 16 variables.
 But the data stabilized after cleaning and adjusting to 8642 records and 17 variables.
+
 > B)Label_Country:
 This data contains a description of the country whether it's Developing or Developed .
 
 
 > Variable:   Description:
+
 > 1-Case: ID Number for Country.
+
 > 2-Cc3: ID String for Country.
+
 > 3-Country : Name Country.
+
 > 4-Year: The date  from 1800 to 2016.
 > 5-Banking_Crisis: Banking problems can often be traced to a decrease the value of banks' assets.                                                                 
           >> A) due to a collapse in real estate prices or When the bank asset  values decrease substantially .
