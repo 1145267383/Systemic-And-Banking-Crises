@@ -31,6 +31,7 @@ This data contains a description of the country whether it's Developing or Devel
                                                              
           >> A) due to a collapse in real estate prices or When the bank asset  values decrease substantially .
           >> B) if a government stops paying its obligations, this can trigger a sharp decline in value of bonds.
+
 > 6-Systemic_Crisis : when many banks in a country are in serious solvency or liquidity problems at the same time—either:
 
         >> A) because there are all hits by the same outside shock.
