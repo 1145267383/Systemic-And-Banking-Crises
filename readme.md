@@ -6,36 +6,37 @@
 
 ## Dataset
 
->A)20160923_global_crisis_data:
+> A)20160923_global_crisis_data:
 This data was collected over many years by Carmen Reinhart (with her coauthors Ken Rogoff, Christoph Trebesch, and Vincent Reinhart). 
 "https://www.hbs.edu/behavioral-finance-and-financial-stability/data/Pages/global.aspx".
->>This data contains the banking crises of 70 countries, from 1800 AD to 2016 AD, with a total of 15,190 records and 16 variables.
+>> This data contains the banking crises of 70 countries, from 1800 AD to 2016 AD, with a total of 15,190 records and 16 variables.
 But the data stabilized after cleaning and adjusting to 8642 records and 17 variables.
->B)Label_Country:
+> B)Label_Country:
 This data contains a description of the country whether it's Developing or Developed .
 
 
->Variable:                        >Description:
-1-Case                            1-ID Number for Country.
-2-Cc3                             2-ID String for Country.
-3-Country                         3-Name Country.
-4-Year                            4-The date  from 1800 to 2016.
-5-Banking_Crisis                  5-Banking problems can often be traced to a decrease the value of banks' assets.                                                                 A) due to a collapse in real estate prices or When the bank asset  values decrease substantially .
-                                      B) if a government stops paying its obligations, this can trigger a sharp decline in value of bonds.
-6-Systemic_Crisis                 6-when many banks in a country are in serious solvency or liquidity problems at the same time—either:
-                                      A) because there are all hits by the same outside shock.
-                                      B) or because failure in one bank or a group of banks spreads to other banks in the system.
-7-Gold_Standard                   7-The Country have crisis in Gold Standard.
-8-Exch_Usd                        8-Exch local currency in USD, Except exch USD currency in GBP.
-9-Domestic_Debt_In_Default        9-The Country have domestic debt in default.
-10-Sovereign_External_Debt_1      10-Default and Restructurings, -Does not include defaults on WWI debt to United States and                                                       United Kingdom and post-1975 defaults on Official External Creditors.
-11-Sovereign_External_Debt_2      11-Default and Restructurings, -Does not include defaults on WWI debt to United States and                                                       United Kingdom but includes post-1975 defaults on Official External Creditors.
-12-Gdp_Weighted_Default           12-GDP Weighted Default for country.
-13-Inflation                      13-Annual percentages of average consumer prices.
-14-Independence                   14-Independence for country.
-15-Currency_Crises                15-The Country have crisis in Currency.
-16-Inflation_Crises               16-The Country have crisis in Inflation.
-17-Level_Country                  17-The description of the country  whether it's Developing or Developed. 
+> Variable:   Description:
+> 1-Case: ID Number for Country.
+> 2-Cc3: ID String for Country.
+> 3-Country : Name Country.
+> 4-Year: The date  from 1800 to 2016.
+> 5-Banking_Crisis: Banking problems can often be traced to a decrease the value of banks' assets.                                                                 
+          >> A) due to a collapse in real estate prices or When the bank asset  values decrease substantially .
+          >> B) if a government stops paying its obligations, this can trigger a sharp decline in value of bonds.
+> 6-Systemic_Crisis : when many banks in a country are in serious solvency or liquidity problems at the same time—either:
+        >> A) because there are all hits by the same outside shock.
+        >> B) or because failure in one bank or a group of banks spreads to other banks in the system.
+> 7-Gold_Standard: The Country have crisis in Gold Standard.
+> 8-Exch_Usd: Exch local currency in USD, Except exch USD currency in GBP.
+> 9-Domestic_Debt_In_Default: The Country have domestic debt in default.
+> 10-Sovereign_External_Debt_1: Default and Restructurings, -Does not include defaults on WWI debt to United States and United Kingdom and post-1975 defaults on Official External Creditors.
+> 11-Sovereign_External_Debt_2: Default and Restructurings, -Does not include defaults on WWI debt to United States and United Kingdom but includes post-1975 defaults on Official External Creditors.
+> 12-Gdp_Weighted_Default:GDP Weighted Default for country.
+> 13-Inflation: Annual percentages of average consumer prices.
+> 14-Independence: Independence for country.
+> 15-Currency_Crises: The Country have crisis in Currency.
+> 16-Inflation_Crises: The Country have crisis in Inflation.
+> 17-Level_Country: The description of the country  whether it's Developing or Developed. 
 
 
 # Summary of Findings
