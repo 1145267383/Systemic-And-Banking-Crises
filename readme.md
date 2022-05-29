@@ -71,8 +71,8 @@ This data contains a description of the country whether it's Developing or Devel
 >- The occurrence rate  of `Banking Crisis` are higher than `Systemic Crisis` by `47%`.
 
 #### (2)
->-  That a {Gold Standard, Exch USD, GDP Weighted Default } `has no clear affect` on  banking crisis and systemic crisis.
->- That each from {Domestic Debt In Default, Sovereign External Debt 1, Sovereign External Debt 2,  Independence,  Currency Crises, Inflation Crises, Inflation} `has affect` on banking crisis and systemic crisis by `positive`.
+>-  That a {Gold Standard, GDP Weighted Default } `has no clear affect` on  banking crisis and systemic crisis.
+>- That each from {Exch USD, Domestic Debt In Default, Sovereign External Debt 1, Sovereign External Debt 2,  Independence,  Currency Crises, Inflation Crises, Inflation} `has affect` on banking crisis and systemic crisis by `positive`.
 >- And that `Level Country` has affect on ` banking crisis` by negative, but  not clear with `systemic crisis`.
 
 #### (3)
